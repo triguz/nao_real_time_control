@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="nao_head_control" type="nao_head_control" name="head_control_subscriber" output="screen" />
+</launch>

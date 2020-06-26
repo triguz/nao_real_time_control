@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# ROS Node to control Nao arms with Oculus Rift CV1 via NaoQi API Cartesian Control. 
+# ROS Node to control Nao arms with Oculus Rift CV1 blablabla
 
 import rospy
 

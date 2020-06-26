@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# ROS Node to control Nao head with Oculus Rift CV1 via NaoQi API ALMotion Module and the method setAngles().
+# ROS Node to control Nao head with Oculus Rift CV1 blablabla
 
 import rospy
 

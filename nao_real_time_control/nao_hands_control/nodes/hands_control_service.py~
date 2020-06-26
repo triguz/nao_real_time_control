@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# ROS Node to control Nao hands with Oculus Rift CV1, this node provides two ROS services, one for opening and one for closing the hand.
+# ROS Node to control Nao hands with Oculus Rift CV1 blablabla
 
 import rospy
 
